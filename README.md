@@ -11,3 +11,5 @@ Citizens should have the ability to view personal case files, court sessions, an
 Government employees need to be able to access all records pertaining to their cases This includes on-going case files or consolidated case, and all information that may be linked to it. Such as court session.
 ## Government Agencies
 Government agencies would have access to the entire crime database in order to ensure potential new hires have not committed egregious crimes. This would include that the agencies would be able to see all case files, offenses, and any government employee that worked on a case.
+
+With a total of 11 table (with 5 bridge tables), and 14 stored and views the database is capable of generating queries for public use, crime analytics, and bureaucratic endevors. 
